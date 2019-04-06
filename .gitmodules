@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/moya4monja/moya4monja.github.io.git
+	branch = master
