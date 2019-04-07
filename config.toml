@@ -23,7 +23,7 @@ paginatePath = "page"
 	BrandImage = "/logo.png"
 	brand = "moya4monja blog"
 	topline = "moya4monjaのブログ"
-	footline = "Copyright&copy; <a href='/about/'>moya4monja</a>"
+	footline = "Copyright&copy; <a href='/2019/04/08/about/'>moya4monja</a>"
 	showRightSidebar = true
 	highlight = "default"
 	twitter  = "moya4monja"
@@ -46,6 +46,6 @@ paginatePath = "page"
 [[menu.main]]
 	name = "About"
 	identifier = ""
-	url = "//about/"
+	url = "//2019/04/08/about/"
 	weight = -100
 	pre = "<i class='fa fa-info-circle'></i>"
