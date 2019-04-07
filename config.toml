@@ -46,6 +46,6 @@ paginatePath = "page"
 [[menu.main]]
 	name = "About"
 	identifier = ""
-	url = "/about/"
+	url = "//about/"
 	weight = -100
 	pre = "<i class='fa fa-info-circle'></i>"
