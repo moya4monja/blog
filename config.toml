@@ -48,4 +48,4 @@ paginatePath = "page"
 	identifier = ""
 	url = "//2019/04/08/about/"
 	weight = -100
-	pre = "<i class='fa fa-info-circle'></i>"
+	# pre = "<i class='fa fa-info-circle'></i>"
