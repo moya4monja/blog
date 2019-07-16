@@ -6,10 +6,10 @@ draft: false
 
 # 概要
 クラウドネイティブをお題目とした勉強会
-- 会場：株式会社Fusic
-- 時間：19:00～21:00
-- [connpassのリンク](https://fukuoka-dev.connpass.com/event/136853/)
-- ハッシュタグは #fukuoka_dev
+  - 会場：株式会社Fusic
+  - 時間：19:00～21:00
+  - [connpassのリンク](https://fukuoka-dev.connpass.com/event/136853/)
+  - ハッシュタグは #fukuoka_dev
 
 # 発表内容
 1. とりあえずサーバーレス
