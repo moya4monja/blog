@@ -1,7 +1,7 @@
 ---
 title: "190716_AWS_Fukuoka"
 date: 2019-07-16T18:54:43+09:00
-draft: true
+draft: false
 ---
 
 # 概要
@@ -9,6 +9,7 @@ draft: true
 - 会場：株式会社Fusic
 - 時間：19:00～21:00
 - [connpassのリンク](https://fukuoka-dev.connpass.com/event/136853/)
+- ハッシュタグは #fukuoka_dev
 
 # 発表内容
 1. とりあえずサーバーレス
@@ -110,3 +111,4 @@ draft: true
 
 1. 最後に
    - Serverless Days 福岡やるんで、よろ！
+   - 12月頃だお
