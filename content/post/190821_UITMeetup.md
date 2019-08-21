@@ -6,6 +6,7 @@ draft: false
 
 # 概要
 UIT Meetup ~現場におけるフロントエンド~
+
 - 会場：LINE Fukuoka
 - URL： https://uit.connpass.com/event/138711/
 - ハッシュタグ：#uit_fukuoka
